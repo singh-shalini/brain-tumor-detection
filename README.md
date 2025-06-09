@@ -39,6 +39,15 @@ This project leverages Convolutional Neural Networks (CNNs) to automatically det
    ```
 ## 📸 Screenshots
 
+![image](https://github.com/user-attachments/assets/f88ab1ab-caec-4c66-b897-34a6ce540575)
+
+![image](https://github.com/user-attachments/assets/b0dea9f6-6ad3-41d7-a3a5-cd0a0b2affb2)
+
+![image](https://github.com/user-attachments/assets/f8cf80a0-3c58-4600-81fe-b9d8536d8674)
+
+![image](https://github.com/user-attachments/assets/43e9cf50-847b-4aa5-b0cb-449224b8e68b)
+
+![image](https://github.com/user-attachments/assets/260d7eac-d227-4a62-ae9d-92227143dc9d)
 
 
 ## 📈 Model Performance
