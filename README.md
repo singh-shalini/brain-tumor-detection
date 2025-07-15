@@ -19,7 +19,7 @@ This project leverages Convolutional Neural Networks (CNNs) to automatically det
 ## 📊 Dataset
 
 - **Source**: [Brain Tumor MRI Dataset - Kaggle](https://www.kaggle.com/datasets/masoudnickparvar/brain-tumor-mri-dataset)
-- **Classes**: `Tumor`, `No Tumor`
+- **Classes**: 'notumor', 'glioma', 'pituitary', 'meningioma'
 - **Image Format**: `.jpg` MRI scans
 
 ## 🚀 How to Run
@@ -52,15 +52,14 @@ This project leverages Convolutional Neural Networks (CNNs) to automatically det
 
 ## 📈 Model Performance
 
-1. Accuracy: ~95% on validation data
+1. Accuracy: ~89% on validation data
 2. Optimizer: Adam
-3. Loss Function: Binary Crossentropy
+3. Loss Function: Categorical Crossentropy
 
 ## 📌 Features
 
 - Data preprocessing & augmentation
-- CNN architecture from scratch
-- Model evaluation using accuracy, loss graphs
+- CNN architecture 
 - Simple, interpretable architecture suitable for deployment
 
 ## 📄 License
